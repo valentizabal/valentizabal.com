@@ -68,12 +68,14 @@ html, body {
   text-align: center;
   max-inline-size: none;
   font-size: var(--font-size-5);
+  color: var(--white);
 }
 .container .details .text h2 {
   text-align: center;
   max-inline-size: none;
   font-size: var(--font-size-3);
   font-weight: 600;
+  color: var(--white);
 }
 
 .me-image {
